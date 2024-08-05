@@ -1,10 +1,11 @@
-import "dotenv/config"
-import express from "express"
-import cors from "cors"
-import bodyParser from "body-parser"
-import compression from "compression"
-import logger from "morgan"
-import path from "path"
+const express = require("express")
+const cors = require("cors")
+const bodyParser = require("body-parser")
+const compression = require("compression")
+const logger = require("morgan")
+const path = require("path")
+
+require("dotenv/config")
 
 const app = express()
 const PORT = process.env.PORT || 3000
