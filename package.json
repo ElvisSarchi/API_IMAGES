@@ -1,5 +1,5 @@
 {
-  "name": "API_IMAGES",
+  "name": "api-images",
   "version": "1.0.0",
   "description": "API para buscar imagens",
   "main": "index.js",

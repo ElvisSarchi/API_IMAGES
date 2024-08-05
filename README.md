@@ -1,2 +1,5 @@
 # API_IMAGES
-Api para consumir imagenes como banners, logos, promociones, publicidad 
+
+This API is designed to consume images such as banners, logos, promotions, and advertisements.
+
+The images are stored in the `public/images` directory.
